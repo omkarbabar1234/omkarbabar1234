@@ -1,7 +1,7 @@
 # Hello, I'm Omkar Babar
 <a href="www.linkedin.com/in/b-omkar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring SOC Analyst | QRadar, Splunk, Wazuh, EDR, XDR | Linux, Windows, Networking | Hands-on Labs |
+SOC Analyst Intern at **RamanaSoft Consulting Services** | QRadar, Splunk, Wazuh, EDR, XDR | Linux, Windows, Networking | Hands-on Labs |
 SOC-Labs Project
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
